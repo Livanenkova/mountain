@@ -1,0 +1,38 @@
+body {
+	margin: 0px;
+	padding: 0px;
+  font-family: "CoreSansERegular", "Arial", sans-serif;
+  background-color: red;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+fieldset,
+input,
+textarea {
+  border: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+fieldset {
+  padding-left: 1px;
+  padding-right: 1px;
+}
+
+textarea {
+  overflow: auto;
+  resize: none;
+}
+
+
+
+
